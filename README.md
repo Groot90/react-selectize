@@ -1,4 +1,9 @@
-Just a test fork.
+Simple fork with prebuilt files for v2.1.0 , with support for React15.5.
+
+Note: imports should use import ReactSelectize from 'react-selectize/src/index'
+instead of import ReactSelectize from 'react-selectize'
+
+
 
 [![npm version](https://badge.fury.io/js/react-selectize.svg)](https://badge.fury.io/js/react-selectize)
 [![Build Status](https://travis-ci.org/furqanZafar/react-selectize.svg?branch=develop)](https://travis-ci.org/furqanZafar/react-selectize)
